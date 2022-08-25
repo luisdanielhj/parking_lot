@@ -1,1 +1,1 @@
-# PArking Lot Detector on Python
+# Parking Lot Detector on Python
